@@ -1,0 +1,22 @@
+{
+  "name": "employeeservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "promise": "^8.1.0",
+    "redis": "^3.0.2",
+    "redis-ubuntu-setup": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.partdp.ir/training-projects/somayeh.abdoljavadi/employeeservice.git"
+  },
+  "author": "Somayeh.abdoljavadi",
+  "license": "ISC"
+}
